@@ -1,25 +1,9 @@
 <div align="center"><h1>CodeAlpha_Temperature_ConverterWebsite</h1></div>
 
 
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-- Authors
-- Future Features- 
- - Mobile version design
-- Desktop version design
-- Dynamic HTML for featured-speakers
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="![Alt text](images/1677167040157.jpeg)" alt="Your Logo">
   <br/>
 </div>
 
