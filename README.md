@@ -4,7 +4,6 @@
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="![Alt text](images/1677167040157.jpeg)" alt="Your Logo">
-  <br/>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -52,12 +51,12 @@
 
 - **[🌡️ Temperature Conversion: Easily convert temperatures between Celsius, Fahrenheit, and Kelvin with precision.]**
 - **[🔁 Interactive Interface: A user-friendly and intuitive interface for effortless temperature conversions.]**
-_ **[📊 Dropdown Menus: Select temperature units from convenient dropdown menus for quick conversion.]**
-_ **[🌐 Accurate Results: Get accurate temperature conversions in real-time.]**
-_ **[🤖 Responsive Design: The website adapts seamlessly to various screen sizes, making it accessible on both desktop and mobile devices.]**
-_ **[🚀 Quick Conversion: Instantly see the converted temperature without the need for complex calculations.]**
-_ **[📸 Background Variety: Choose from a selection of background images to personalize your experience.]**
-_ **[🌐 Web Development Project: A demonstration of web development skills and knowledge.]**
+- **[📊 Dropdown Menus: Select temperature units from convenient dropdown menus for quick conversion.]**
+- **[🌐 Accurate Results: Get accurate temperature conversions in real-time.]**
+- **[🤖 Responsive Design: The website adapts seamlessly to various screen sizes, making it accessible on both desktop and mobile devices.]**
+- **[🚀 Quick Conversion: Instantly see the converted temperature without the need for complex calculations.]**
+- **[📸 Background Variety: Choose from a selection of background images to personalize your experience.]**
+- **[🌐 Web Development Project: A demonstration of web development skills and knowledge.]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 /
